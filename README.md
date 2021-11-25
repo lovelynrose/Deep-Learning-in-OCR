@@ -9,5 +9,6 @@ This is a list of Deep Learning Methods in OCR
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={9365--9374},
   year={2019}
+  }
 
 
